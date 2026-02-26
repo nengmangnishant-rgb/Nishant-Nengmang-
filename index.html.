@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nishant Nengmang | Official Site</title>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Nishant Nengmang",
+      "alternateName": ["Nishant Subba", "Tashi Furato", "Nishant Furato"],
+      "url": "https://nengmangnishant-rgb.github.io/",
+      "image": "https://github.com/nengmangnishant-rgb.png",
+      "birthDate": "2001-12-25",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Darjeeling, India"
+      },
+      "nationality": {
+        "@type": "Country",
+        "name": "India"
+      },
+      "jobTitle": ["Musical Artist", "Flight Attendant"],
+      "worksFor": [
+        {
+          "@type": "Organization",
+          "name": "Qatar Airways"
+        }
+      ],
+      "description": "Nishant Nengmang is an Indian-Japanese musical artist and aviation professional known for his work in the international aviation industry and his music career.",
+      "sameAs": [
+        "https://wikialpha.org/wiki/Nishant_Nengmang",
+        "https://musicbrainz.org/artist/4878bc71-2a0a-4c4e-85af-4dc732474d9e",
+        "https://nishantnengmang.blogspot.com",
+        "https://www.instagram.com/nishant_nengmang",
+        "https://www.crunchbase.com/person/nishant-nengmang",
+        "https://github.com/nengmangnishant-rgb"
+      ]
+    }
+    </script>
+</head>
+<body>
+    <h1>Nishant Nengmang</h1>
+    <p>Musical Artist & Flight Attendant</p>
+    <hr>
+    <ul>
+        <li><a href="https://wikialpha.org/wiki/Nishant_Nengmang">WikiAlpha Biography</a></li>
+        <li><a href="https://musicbrainz.org/artist/4878bc71-2a0a-4c4e-85af-4dc732474d9e">MusicBrainz Profile</a></li>
+        <li><a href="https://nishantnengmang.blogspot.com">Official Blog</a></li>
+    </ul>
+</body>
+</html>
